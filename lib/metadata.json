@@ -1,0 +1,2402 @@
+{
+  "vaultName": "aia_test",
+  "lastExport": 1724163914128,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "1. Overwegingen/overweging_01.md",
+    "1. Overwegingen/overweging_02.md",
+    "1. Overwegingen/overweging_03.md",
+    "1. Overwegingen/overweging_04.md",
+    "1. Overwegingen/overweging_05.md",
+    "1. Overwegingen/overweging_06.md",
+    "1. Overwegingen/overweging_07.md",
+    "1. Overwegingen/overweging_08.md",
+    "1. Overwegingen/overweging_09.md",
+    "1. Overwegingen/overweging_10.md",
+    "1. Overwegingen/overweging_11.md",
+    "1. Overwegingen/overweging_12.md",
+    "1. Overwegingen/overweging_13.md",
+    "1. Overwegingen/overweging_14.md",
+    "1. Overwegingen/overweging_15.md",
+    "1. Overwegingen/overweging_16.md",
+    "1. Overwegingen/overweging_17.md",
+    "1. Overwegingen/overweging_18.md",
+    "1. Overwegingen/overweging_19.md",
+    "1. Overwegingen/overweging_20.md",
+    "1. Overwegingen/overweging_21.md",
+    "1. Overwegingen/overweging_22.md",
+    "1. Overwegingen/overweging_23.md",
+    "1. Overwegingen/overweging_24.md",
+    "1. Overwegingen/overweging_25.md",
+    "1. Overwegingen/overweging_26.md",
+    "1. Overwegingen/overweging_27.md",
+    "1. Overwegingen/overweging_28.md",
+    "1. Overwegingen/overweging_29.md",
+    "1. Overwegingen/overweging_30.md",
+    "1. Overwegingen/overweging_31.md",
+    "1. Overwegingen/overweging_32.md",
+    "1. Overwegingen/overweging_33.md",
+    "1. Overwegingen/overweging_34.md",
+    "1. Overwegingen/overweging_35.md",
+    "1. Overwegingen/overweging_36.md",
+    "1. Overwegingen/overweging_37.md",
+    "1. Overwegingen/overweging_38.md",
+    "1. Overwegingen/overweging_39.md",
+    "1. Overwegingen/overweging_40.md",
+    "1. Overwegingen/overweging_41.md",
+    "1. Overwegingen/overweging_42.md",
+    "1. Overwegingen/overweging_43.md",
+    "1. Overwegingen/overweging_44.md",
+    "1. Overwegingen/overweging_45.md",
+    "1. Overwegingen/overweging_46.md",
+    "1. Overwegingen/overweging_47.md",
+    "1. Overwegingen/overweging_48.md",
+    "1. Overwegingen/overweging_49.md",
+    "1. Overwegingen/overweging_50.md",
+    "1. Overwegingen/overweging_51.md",
+    "1. Overwegingen/overweging_52.md",
+    "1. Overwegingen/overweging_53.md",
+    "1. Overwegingen/overweging_54.md",
+    "1. Overwegingen/overweging_55.md",
+    "1. Overwegingen/overweging_56.md",
+    "1. Overwegingen/overweging_57.md",
+    "1. Overwegingen/overweging_58.md",
+    "1. Overwegingen/overweging_59.md",
+    "1. Overwegingen/overweging_60.md",
+    "1. Overwegingen/overweging_61.md",
+    "1. Overwegingen/overweging_62.md",
+    "1. Overwegingen/overweging_63.md",
+    "1. Overwegingen/overweging_64.md",
+    "1. Overwegingen/overweging_65.md",
+    "1. Overwegingen/overweging_66.md",
+    "1. Overwegingen/overweging_67.md",
+    "1. Overwegingen/overweging_68.md",
+    "1. Overwegingen/overweging_69.md",
+    "1. Overwegingen/overweging_70.md",
+    "1. Overwegingen/overweging_71.md",
+    "1. Overwegingen/overweging_72.md",
+    "1. Overwegingen/overweging_73.md",
+    "1. Overwegingen/overweging_74.md",
+    "1. Overwegingen/overweging_75.md",
+    "1. Overwegingen/overweging_76.md",
+    "1. Overwegingen/overweging_77.md",
+    "1. Overwegingen/overweging_78.md",
+    "1. Overwegingen/overweging_79.md",
+    "1. Overwegingen/overweging_80.md",
+    "1. Overwegingen/overweging_81.md",
+    "1. Overwegingen/overweging_82.md",
+    "1. Overwegingen/overweging_83.md",
+    "1. Overwegingen/overweging_84.md",
+    "1. Overwegingen/overweging_85.md",
+    "1. Overwegingen/overweging_86.md",
+    "1. Overwegingen/overweging_87.md",
+    "1. Overwegingen/overweging_88.md",
+    "1. Overwegingen/overweging_89.md",
+    "1. Overwegingen/overweging_90.md",
+    "1. Overwegingen/overweging_91.md",
+    "1. Overwegingen/overweging_92.md",
+    "1. Overwegingen/overweging_93.md",
+    "1. Overwegingen/overweging_94.md",
+    "1. Overwegingen/overweging_95.md",
+    "1. Overwegingen/overweging_96.md",
+    "1. Overwegingen/overweging_97.md",
+    "1. Overwegingen/overweging_98.md",
+    "1. Overwegingen/overweging_99.md",
+    "1. Overwegingen/overweging_100.md",
+    "1. Overwegingen/overweging_101.md",
+    "1. Overwegingen/overweging_102.md",
+    "1. Overwegingen/overweging_103.md",
+    "1. Overwegingen/overweging_104.md",
+    "1. Overwegingen/overweging_105.md",
+    "1. Overwegingen/overweging_106.md",
+    "1. Overwegingen/overweging_107.md",
+    "1. Overwegingen/overweging_108.md",
+    "1. Overwegingen/overweging_109.md",
+    "1. Overwegingen/overweging_110.md",
+    "1. Overwegingen/overweging_111.md",
+    "1. Overwegingen/overweging_112.md",
+    "1. Overwegingen/overweging_113.md",
+    "1. Overwegingen/overweging_114.md",
+    "1. Overwegingen/overweging_115.md",
+    "1. Overwegingen/overweging_116.md",
+    "1. Overwegingen/overweging_117.md",
+    "1. Overwegingen/overweging_118.md",
+    "1. Overwegingen/overweging_119.md",
+    "1. Overwegingen/overweging_120.md",
+    "1. Overwegingen/overweging_121.md",
+    "1. Overwegingen/overweging_122.md",
+    "1. Overwegingen/overweging_123.md",
+    "1. Overwegingen/overweging_124.md",
+    "1. Overwegingen/overweging_125.md",
+    "1. Overwegingen/overweging_126.md",
+    "1. Overwegingen/overweging_127.md",
+    "1. Overwegingen/overweging_128.md",
+    "1. Overwegingen/overweging_129.md",
+    "1. Overwegingen/overweging_130.md",
+    "1. Overwegingen/overweging_131.md",
+    "1. Overwegingen/overweging_132.md",
+    "1. Overwegingen/overweging_133.md",
+    "1. Overwegingen/overweging_134.md",
+    "1. Overwegingen/overweging_135.md",
+    "1. Overwegingen/overweging_136.md",
+    "1. Overwegingen/overweging_137.md",
+    "1. Overwegingen/overweging_138.md",
+    "1. Overwegingen/overweging_139.md",
+    "1. Overwegingen/overweging_140.md",
+    "1. Overwegingen/overweging_141.md",
+    "1. Overwegingen/overweging_142.md",
+    "1. Overwegingen/overweging_143.md",
+    "1. Overwegingen/overweging_144.md",
+    "1. Overwegingen/overweging_145.md",
+    "1. Overwegingen/overweging_146.md",
+    "1. Overwegingen/overweging_147.md",
+    "1. Overwegingen/overweging_148.md",
+    "1. Overwegingen/overweging_149.md",
+    "1. Overwegingen/overweging_150.md",
+    "1. Overwegingen/overweging_151.md",
+    "1. Overwegingen/overweging_152.md",
+    "1. Overwegingen/overweging_153.md",
+    "1. Overwegingen/overweging_154.md",
+    "1. Overwegingen/overweging_155.md",
+    "1. Overwegingen/overweging_156.md",
+    "1. Overwegingen/overweging_157.md",
+    "1. Overwegingen/overweging_158.md",
+    "1. Overwegingen/overweging_159.md",
+    "1. Overwegingen/overweging_160.md",
+    "1. Overwegingen/overweging_161.md",
+    "1. Overwegingen/overweging_162.md",
+    "1. Overwegingen/overweging_163.md",
+    "1. Overwegingen/overweging_164.md",
+    "1. Overwegingen/overweging_165.md",
+    "1. Overwegingen/overweging_166.md",
+    "1. Overwegingen/overweging_167.md",
+    "1. Overwegingen/overweging_168.md",
+    "1. Overwegingen/overweging_169.md",
+    "1. Overwegingen/overweging_170.md",
+    "1. Overwegingen/overweging_171.md",
+    "1. Overwegingen/overweging_172.md",
+    "1. Overwegingen/overweging_173.md",
+    "1. Overwegingen/overweging_174.md",
+    "1. Overwegingen/overweging_175.md",
+    "1. Overwegingen/overweging_176.md",
+    "1. Overwegingen/overweging_177.md",
+    "1. Overwegingen/overweging_178.md",
+    "1. Overwegingen/overweging_179.md",
+    "1. Overwegingen/overweging_180.md",
+    "2. Hoofdstukken/Hoofdstuk 1 Algemene Bepalingen/a1.md",
+    "2. Hoofdstukken/Hoofdstuk 1 Algemene Bepalingen/a2.md",
+    "2. Hoofdstukken/Hoofdstuk 1 Algemene Bepalingen/a3.md",
+    "2. Hoofdstukken/Hoofdstuk 1 Algemene Bepalingen/a4.md",
+    "2. Hoofdstukken/Hoofdstuk 2 Verboden AI-Praktijken/a5.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 1 Classificatie van AI-systemen als AI-systemen met een hoog risico/a6.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 1 Classificatie van AI-systemen als AI-systemen met een hoog risico/a7.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 2 Eisen voor AI-systemen met een hoog risico/a8.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 2 Eisen voor AI-systemen met een hoog risico/a9.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 2 Eisen voor AI-systemen met een hoog risico/a10.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 2 Eisen voor AI-systemen met een hoog risico/a11.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 2 Eisen voor AI-systemen met een hoog risico/a12.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 2 Eisen voor AI-systemen met een hoog risico/a13.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 2 Eisen voor AI-systemen met een hoog risico/a14.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 2 Eisen voor AI-systemen met een hoog risico/a15.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a16.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a17.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a18.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a19.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a20.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a21.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a22.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a23.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a24.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a25.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a26.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a27.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a28.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a29.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a30.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a31.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a32.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a33.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a34.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a35.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a36.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a37.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a38.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a39.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 5 Normen, conformiteitsbeoordeling, certificaten, registratie/a40.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 5 Normen, conformiteitsbeoordeling, certificaten, registratie/a41.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 5 Normen, conformiteitsbeoordeling, certificaten, registratie/a42.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 5 Normen, conformiteitsbeoordeling, certificaten, registratie/a43.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 5 Normen, conformiteitsbeoordeling, certificaten, registratie/a44.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 5 Normen, conformiteitsbeoordeling, certificaten, registratie/a45.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 5 Normen, conformiteitsbeoordeling, certificaten, registratie/a46.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 5 Normen, conformiteitsbeoordeling, certificaten, registratie/a47.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 5 Normen, conformiteitsbeoordeling, certificaten, registratie/a48.md",
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 5 Normen, conformiteitsbeoordeling, certificaten, registratie/a49.md",
+    "2. Hoofdstukken/Hoofdstuk 4 Transparantieverplichtingen Voor Aanbieders En Gebruiksverantwoordelijken Van Bepaalde AI-Systemen/a50.md",
+    "2. Hoofdstukken/Hoofdstuk 5 AI-Modellen Voor Algemene Doeleinden/AFDELING 1 Classificatieregels/a51.md",
+    "2. Hoofdstukken/Hoofdstuk 5 AI-Modellen Voor Algemene Doeleinden/AFDELING 1 Classificatieregels/a52.md",
+    "2. Hoofdstukken/Hoofdstuk 5 AI-Modellen Voor Algemene Doeleinden/AFDELING 2 Verplichtingen voor aanbieders van AI-modellen voor algemene doeleinden/a53.md",
+    "2. Hoofdstukken/Hoofdstuk 5 AI-Modellen Voor Algemene Doeleinden/AFDELING 2 Verplichtingen voor aanbieders van AI-modellen voor algemene doeleinden/a54.md",
+    "2. Hoofdstukken/Hoofdstuk 5 AI-Modellen Voor Algemene Doeleinden/AFDELING 3 Verplichtingen van aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico/a55.md",
+    "2. Hoofdstukken/Hoofdstuk 5 AI-Modellen Voor Algemene Doeleinden/AFDELING 4 Praktijkcodes/a56.md",
+    "2. Hoofdstukken/Hoofdstuk 6 Maatregelen Ter Ondersteuning Van Innovatie/a57.md",
+    "2. Hoofdstukken/Hoofdstuk 6 Maatregelen Ter Ondersteuning Van Innovatie/a58.md",
+    "2. Hoofdstukken/Hoofdstuk 6 Maatregelen Ter Ondersteuning Van Innovatie/a59.md",
+    "2. Hoofdstukken/Hoofdstuk 6 Maatregelen Ter Ondersteuning Van Innovatie/a60.md",
+    "2. Hoofdstukken/Hoofdstuk 6 Maatregelen Ter Ondersteuning Van Innovatie/a61.md",
+    "2. Hoofdstukken/Hoofdstuk 6 Maatregelen Ter Ondersteuning Van Innovatie/a62.md",
+    "2. Hoofdstukken/Hoofdstuk 6 Maatregelen Ter Ondersteuning Van Innovatie/a63.md",
+    "2. Hoofdstukken/Hoofdstuk 7 Governance/AFDELING 1 Governance op Unieniveau/a64.md",
+    "2. Hoofdstukken/Hoofdstuk 7 Governance/AFDELING 1 Governance op Unieniveau/a65.md",
+    "2. Hoofdstukken/Hoofdstuk 7 Governance/AFDELING 1 Governance op Unieniveau/a66.md",
+    "2. Hoofdstukken/Hoofdstuk 7 Governance/AFDELING 1 Governance op Unieniveau/a67.md",
+    "2. Hoofdstukken/Hoofdstuk 7 Governance/AFDELING 1 Governance op Unieniveau/a68.md",
+    "2. Hoofdstukken/Hoofdstuk 7 Governance/AFDELING 1 Governance op Unieniveau/a69.md",
+    "2. Hoofdstukken/Hoofdstuk 7 Governance/AFDELING 2 Nationale bevoegde autoriteiten/a70.md",
+    "2. Hoofdstukken/Hoofdstuk 8 EU-Databank Voor Ai-Systemen Met Een Hoog Risico/a71.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 1 Monitoring na het in de handel brengen/a72.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 2 Delen van informatie over ernstige incidenten/a73.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a74.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a75.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a76.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a77.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a78.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a79.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a80.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a81.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a82.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a83.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a84.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 4 Rechtsmiddelen/a85.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 4 Rechtsmiddelen/a86.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 4 Rechtsmiddelen/a87.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 5 Toezicht, onderzoek, handhaving en monitoring ten aanzien van aanbieders van AI-modellen voor algemene doeleinden/a88.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 5 Toezicht, onderzoek, handhaving en monitoring ten aanzien van aanbieders van AI-modellen voor algemene doeleinden/a89.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 5 Toezicht, onderzoek, handhaving en monitoring ten aanzien van aanbieders van AI-modellen voor algemene doeleinden/a90.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 5 Toezicht, onderzoek, handhaving en monitoring ten aanzien van aanbieders van AI-modellen voor algemene doeleinden/a91.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 5 Toezicht, onderzoek, handhaving en monitoring ten aanzien van aanbieders van AI-modellen voor algemene doeleinden/a92.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 5 Toezicht, onderzoek, handhaving en monitoring ten aanzien van aanbieders van AI-modellen voor algemene doeleinden/a93.md",
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 5 Toezicht, onderzoek, handhaving en monitoring ten aanzien van aanbieders van AI-modellen voor algemene doeleinden/a94.md",
+    "2. Hoofdstukken/Hoofdstuk 10 Gedragscodes En Richtsnoeren/a95.md",
+    "2. Hoofdstukken/Hoofdstuk 10 Gedragscodes En Richtsnoeren/a96.md",
+    "2. Hoofdstukken/Hoofdstuk 11 Bevoegdheidsdelegatie En Comitéprocedure/a97.md",
+    "2. Hoofdstukken/Hoofdstuk 11 Bevoegdheidsdelegatie En Comitéprocedure/a98.md",
+    "2. Hoofdstukken/Hoofdstuk 12 Sancties/a99.md",
+    "2. Hoofdstukken/Hoofdstuk 12 Sancties/a100.md",
+    "2. Hoofdstukken/Hoofdstuk 12 Sancties/a101.md",
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a102.md",
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a103.md",
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a104.md",
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a105.md",
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a106.md",
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a107.md",
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a108.md",
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a109.md",
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a110.md",
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a111.md",
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a112.md",
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a113.md",
+    "3. Bijlagen/b1.md",
+    "3. Bijlagen/b2.md",
+    "3. Bijlagen/b3.md",
+    "3. Bijlagen/b4.md",
+    "3. Bijlagen/b5.md",
+    "3. Bijlagen/b6.md",
+    "3. Bijlagen/b7.md",
+    "3. Bijlagen/b8.md",
+    "3. Bijlagen/b9.md",
+    "3. Bijlagen/b10.md",
+    "3. Bijlagen/b11.md",
+    "3. Bijlagen/b12.md",
+    "3. Bijlagen/b13.md",
+    "Andere wetgeving/v2022-2095.md",
+    "Untitled.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "1. Overwegingen/overweging_01.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1211,
+      "exportedPath": "1.-overwegingen/overweging_01.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_02.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 399,
+      "exportedPath": "1.-overwegingen/overweging_02.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_03.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2069,
+      "exportedPath": "1.-overwegingen/overweging_03.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_04.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 889,
+      "exportedPath": "1.-overwegingen/overweging_04.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_05.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 408,
+      "exportedPath": "1.-overwegingen/overweging_05.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_06.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 615,
+      "exportedPath": "1.-overwegingen/overweging_06.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_07.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 691,
+      "exportedPath": "1.-overwegingen/overweging_07.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_08.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1871,
+      "exportedPath": "1.-overwegingen/overweging_08.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_09.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3934,
+      "exportedPath": "1.-overwegingen/overweging_09.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_10.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2565,
+      "exportedPath": "1.-overwegingen/overweging_10.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_11.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 281,
+      "exportedPath": "1.-overwegingen/overweging_11.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_12.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3444,
+      "exportedPath": "1.-overwegingen/overweging_12.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_13.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 631,
+      "exportedPath": "1.-overwegingen/overweging_13.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_14.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 531,
+      "exportedPath": "1.-overwegingen/overweging_14.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_15.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1190,
+      "exportedPath": "1.-overwegingen/overweging_15.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_16.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1702,
+      "exportedPath": "1.-overwegingen/overweging_16.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_17.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2952,
+      "exportedPath": "1.-overwegingen/overweging_17.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_18.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1109,
+      "exportedPath": "1.-overwegingen/overweging_18.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_19.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2611,
+      "exportedPath": "1.-overwegingen/overweging_19.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_20.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2247,
+      "exportedPath": "1.-overwegingen/overweging_20.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_21.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 503,
+      "exportedPath": "1.-overwegingen/overweging_21.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_22.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3799,
+      "exportedPath": "1.-overwegingen/overweging_22.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_23.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 243,
+      "exportedPath": "1.-overwegingen/overweging_23.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_24.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3455,
+      "exportedPath": "1.-overwegingen/overweging_24.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_25.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2073,
+      "exportedPath": "1.-overwegingen/overweging_25.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_26.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 698,
+      "exportedPath": "1.-overwegingen/overweging_26.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_27.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3820,
+      "exportedPath": "1.-overwegingen/overweging_27.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_28.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 592,
+      "exportedPath": "1.-overwegingen/overweging_28.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_29.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 4508,
+      "exportedPath": "1.-overwegingen/overweging_29.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_30.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 820,
+      "exportedPath": "1.-overwegingen/overweging_30.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_31.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1572,
+      "exportedPath": "1.-overwegingen/overweging_31.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_32.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1333,
+      "exportedPath": "1.-overwegingen/overweging_32.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_33.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3682,
+      "exportedPath": "1.-overwegingen/overweging_33.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_34.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1640,
+      "exportedPath": "1.-overwegingen/overweging_34.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_35.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2407,
+      "exportedPath": "1.-overwegingen/overweging_35.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_36.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 573,
+      "exportedPath": "1.-overwegingen/overweging_36.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_37.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 848,
+      "exportedPath": "1.-overwegingen/overweging_37.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_38.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2060,
+      "exportedPath": "1.-overwegingen/overweging_38.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_39.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1134,
+      "exportedPath": "1.-overwegingen/overweging_39.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_40.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1301,
+      "exportedPath": "1.-overwegingen/overweging_40.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_41.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 988,
+      "exportedPath": "1.-overwegingen/overweging_41.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_42.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1626,
+      "exportedPath": "1.-overwegingen/overweging_42.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_43.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 516,
+      "exportedPath": "1.-overwegingen/overweging_43.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_44.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1537,
+      "exportedPath": "1.-overwegingen/overweging_44.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_45.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 245,
+      "exportedPath": "1.-overwegingen/overweging_45.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_46.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2328,
+      "exportedPath": "1.-overwegingen/overweging_46.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_47.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1135,
+      "exportedPath": "1.-overwegingen/overweging_47.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_48.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1850,
+      "exportedPath": "1.-overwegingen/overweging_48.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_49.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1628,
+      "exportedPath": "1.-overwegingen/overweging_49.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_50.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 973,
+      "exportedPath": "1.-overwegingen/overweging_50.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_51.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 809,
+      "exportedPath": "1.-overwegingen/overweging_51.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_52.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1127,
+      "exportedPath": "1.-overwegingen/overweging_52.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_53.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 5604,
+      "exportedPath": "1.-overwegingen/overweging_53.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_54.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2240,
+      "exportedPath": "1.-overwegingen/overweging_54.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_55.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1774,
+      "exportedPath": "1.-overwegingen/overweging_55.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_56.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1845,
+      "exportedPath": "1.-overwegingen/overweging_56.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_57.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1656,
+      "exportedPath": "1.-overwegingen/overweging_57.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_58.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 4068,
+      "exportedPath": "1.-overwegingen/overweging_58.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_59.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 4066,
+      "exportedPath": "1.-overwegingen/overweging_59.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_60.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3091,
+      "exportedPath": "1.-overwegingen/overweging_60.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_61.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1906,
+      "exportedPath": "1.-overwegingen/overweging_61.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_62.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 938,
+      "exportedPath": "1.-overwegingen/overweging_62.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_63.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1113,
+      "exportedPath": "1.-overwegingen/overweging_63.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_64.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3385,
+      "exportedPath": "1.-overwegingen/overweging_64.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_65.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3304,
+      "exportedPath": "1.-overwegingen/overweging_65.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_66.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 695,
+      "exportedPath": "1.-overwegingen/overweging_66.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_67.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3228,
+      "exportedPath": "1.-overwegingen/overweging_67.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_68.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1530,
+      "exportedPath": "1.-overwegingen/overweging_68.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_69.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 947,
+      "exportedPath": "1.-overwegingen/overweging_69.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_70.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 953,
+      "exportedPath": "1.-overwegingen/overweging_70.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_71.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1379,
+      "exportedPath": "1.-overwegingen/overweging_71.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_72.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3327,
+      "exportedPath": "1.-overwegingen/overweging_72.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_73.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2530,
+      "exportedPath": "1.-overwegingen/overweging_73.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_74.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1623,
+      "exportedPath": "1.-overwegingen/overweging_74.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_75.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1254,
+      "exportedPath": "1.-overwegingen/overweging_75.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_76.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1039,
+      "exportedPath": "1.-overwegingen/overweging_76.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_77.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1885,
+      "exportedPath": "1.-overwegingen/overweging_77.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_78.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2239,
+      "exportedPath": "1.-overwegingen/overweging_78.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_79.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 390,
+      "exportedPath": "1.-overwegingen/overweging_79.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_80.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1455,
+      "exportedPath": "1.-overwegingen/overweging_80.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_81.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1414,
+      "exportedPath": "1.-overwegingen/overweging_81.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_82.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1097,
+      "exportedPath": "1.-overwegingen/overweging_82.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_83.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 887,
+      "exportedPath": "1.-overwegingen/overweging_83.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_84.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2060,
+      "exportedPath": "1.-overwegingen/overweging_84.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_85.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 958,
+      "exportedPath": "1.-overwegingen/overweging_85.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_86.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 892,
+      "exportedPath": "1.-overwegingen/overweging_86.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_87.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 680,
+      "exportedPath": "1.-overwegingen/overweging_87.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_88.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1099,
+      "exportedPath": "1.-overwegingen/overweging_88.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_89.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 931,
+      "exportedPath": "1.-overwegingen/overweging_89.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_90.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 601,
+      "exportedPath": "1.-overwegingen/overweging_90.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_91.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1620,
+      "exportedPath": "1.-overwegingen/overweging_91.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_92.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1104,
+      "exportedPath": "1.-overwegingen/overweging_92.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_93.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2063,
+      "exportedPath": "1.-overwegingen/overweging_93.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_94.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 789,
+      "exportedPath": "1.-overwegingen/overweging_94.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_95.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1235,
+      "exportedPath": "1.-overwegingen/overweging_95.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_96.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 4297,
+      "exportedPath": "1.-overwegingen/overweging_96.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_97.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3130,
+      "exportedPath": "1.-overwegingen/overweging_97.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_98.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 409,
+      "exportedPath": "1.-overwegingen/overweging_98.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_99.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 302,
+      "exportedPath": "1.-overwegingen/overweging_99.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_100.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 502,
+      "exportedPath": "1.-overwegingen/overweging_100.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_101.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1321,
+      "exportedPath": "1.-overwegingen/overweging_101.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_102.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1121,
+      "exportedPath": "1.-overwegingen/overweging_102.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_103.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1102,
+      "exportedPath": "1.-overwegingen/overweging_103.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_104.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1714,
+      "exportedPath": "1.-overwegingen/overweging_104.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_105.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1589,
+      "exportedPath": "1.-overwegingen/overweging_105.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_106.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1117,
+      "exportedPath": "1.-overwegingen/overweging_106.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_107.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1361,
+      "exportedPath": "1.-overwegingen/overweging_107.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_108.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 611,
+      "exportedPath": "1.-overwegingen/overweging_108.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_109.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1274,
+      "exportedPath": "1.-overwegingen/overweging_109.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_110.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2499,
+      "exportedPath": "1.-overwegingen/overweging_110.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_111.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 4473,
+      "exportedPath": "1.-overwegingen/overweging_111.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_112.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2146,
+      "exportedPath": "1.-overwegingen/overweging_112.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_113.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 836,
+      "exportedPath": "1.-overwegingen/overweging_113.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_114.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1498,
+      "exportedPath": "1.-overwegingen/overweging_114.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_115.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1708,
+      "exportedPath": "1.-overwegingen/overweging_115.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_116.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1386,
+      "exportedPath": "1.-overwegingen/overweging_116.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_117.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1439,
+      "exportedPath": "1.-overwegingen/overweging_117.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_118.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1595,
+      "exportedPath": "1.-overwegingen/overweging_118.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_119.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 962,
+      "exportedPath": "1.-overwegingen/overweging_119.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_120.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 964,
+      "exportedPath": "1.-overwegingen/overweging_120.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_121.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2707,
+      "exportedPath": "1.-overwegingen/overweging_121.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_122.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1397,
+      "exportedPath": "1.-overwegingen/overweging_122.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_123.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 297,
+      "exportedPath": "1.-overwegingen/overweging_123.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_124.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 799,
+      "exportedPath": "1.-overwegingen/overweging_124.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_125.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1223,
+      "exportedPath": "1.-overwegingen/overweging_125.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_126.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 752,
+      "exportedPath": "1.-overwegingen/overweging_126.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_127.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 784,
+      "exportedPath": "1.-overwegingen/overweging_127.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_128.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1177,
+      "exportedPath": "1.-overwegingen/overweging_128.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_129.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 950,
+      "exportedPath": "1.-overwegingen/overweging_129.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_130.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1239,
+      "exportedPath": "1.-overwegingen/overweging_130.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_131.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3572,
+      "exportedPath": "1.-overwegingen/overweging_131.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_132.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1924,
+      "exportedPath": "1.-overwegingen/overweging_132.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_133.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2566,
+      "exportedPath": "1.-overwegingen/overweging_133.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_134.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2166,
+      "exportedPath": "1.-overwegingen/overweging_134.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_135.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 790,
+      "exportedPath": "1.-overwegingen/overweging_135.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_136.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1552,
+      "exportedPath": "1.-overwegingen/overweging_136.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_137.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 529,
+      "exportedPath": "1.-overwegingen/overweging_137.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_138.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1525,
+      "exportedPath": "1.-overwegingen/overweging_138.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_139.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 4240,
+      "exportedPath": "1.-overwegingen/overweging_139.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_140.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1652,
+      "exportedPath": "1.-overwegingen/overweging_140.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_141.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3683,
+      "exportedPath": "1.-overwegingen/overweging_141.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_142.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1033,
+      "exportedPath": "1.-overwegingen/overweging_142.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_143.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 4127,
+      "exportedPath": "1.-overwegingen/overweging_143.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_144.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 399,
+      "exportedPath": "1.-overwegingen/overweging_144.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_145.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 924,
+      "exportedPath": "1.-overwegingen/overweging_145.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_146.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 733,
+      "exportedPath": "1.-overwegingen/overweging_146.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_147.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 640,
+      "exportedPath": "1.-overwegingen/overweging_147.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_148.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1810,
+      "exportedPath": "1.-overwegingen/overweging_148.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_149.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2473,
+      "exportedPath": "1.-overwegingen/overweging_149.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_150.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 866,
+      "exportedPath": "1.-overwegingen/overweging_150.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_151.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 893,
+      "exportedPath": "1.-overwegingen/overweging_151.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_152.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 256,
+      "exportedPath": "1.-overwegingen/overweging_152.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_153.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 990,
+      "exportedPath": "1.-overwegingen/overweging_153.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_154.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 488,
+      "exportedPath": "1.-overwegingen/overweging_154.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_155.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1834,
+      "exportedPath": "1.-overwegingen/overweging_155.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_156.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1541,
+      "exportedPath": "1.-overwegingen/overweging_156.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_157.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1284,
+      "exportedPath": "1.-overwegingen/overweging_157.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_158.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 4054,
+      "exportedPath": "1.-overwegingen/overweging_158.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_159.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1246,
+      "exportedPath": "1.-overwegingen/overweging_159.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_160.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 823,
+      "exportedPath": "1.-overwegingen/overweging_160.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_161.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1959,
+      "exportedPath": "1.-overwegingen/overweging_161.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_162.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1220,
+      "exportedPath": "1.-overwegingen/overweging_162.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_163.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1123,
+      "exportedPath": "1.-overwegingen/overweging_163.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_164.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1557,
+      "exportedPath": "1.-overwegingen/overweging_164.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_165.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2721,
+      "exportedPath": "1.-overwegingen/overweging_165.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_166.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 550,
+      "exportedPath": "1.-overwegingen/overweging_166.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_167.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 744,
+      "exportedPath": "1.-overwegingen/overweging_167.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_168.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1207,
+      "exportedPath": "1.-overwegingen/overweging_168.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_169.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 803,
+      "exportedPath": "1.-overwegingen/overweging_169.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_170.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 510,
+      "exportedPath": "1.-overwegingen/overweging_170.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_171.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 918,
+      "exportedPath": "1.-overwegingen/overweging_171.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_172.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 388,
+      "exportedPath": "1.-overwegingen/overweging_172.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_173.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2185,
+      "exportedPath": "1.-overwegingen/overweging_173.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_174.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1740,
+      "exportedPath": "1.-overwegingen/overweging_174.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_175.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 330,
+      "exportedPath": "1.-overwegingen/overweging_175.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_176.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 967,
+      "exportedPath": "1.-overwegingen/overweging_176.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_177.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1395,
+      "exportedPath": "1.-overwegingen/overweging_177.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_178.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 215,
+      "exportedPath": "1.-overwegingen/overweging_178.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_179.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1962,
+      "exportedPath": "1.-overwegingen/overweging_179.html",
+      "dependencies": []
+    },
+    "1. Overwegingen/overweging_180.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 308,
+      "exportedPath": "1.-overwegingen/overweging_180.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 1 Algemene Bepalingen/a1.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1368,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-1-algemene-bepalingen/a1.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 1 Algemene Bepalingen/a2.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 6646,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-1-algemene-bepalingen/a2.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 1 Algemene Bepalingen/a3.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 23460,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-1-algemene-bepalingen/a3.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 1 Algemene Bepalingen/a4.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 684,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-1-algemene-bepalingen/a4.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 2 Verboden AI-Praktijken/a5.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 13006,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-2-verboden-ai-praktijken/a5.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 1 Classificatie van AI-systemen als AI-systemen met een hoog risico/a6.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 5052,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-1-classificatie-van-ai-systemen-als-ai-systemen-met-een-hoog-risico/a6.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 1 Classificatie van AI-systemen als AI-systemen met een hoog risico/a7.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 4632,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-1-classificatie-van-ai-systemen-als-ai-systemen-met-een-hoog-risico/a7.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 2 Eisen voor AI-systemen met een hoog risico/a8.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1415,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-2-eisen-voor-ai-systemen-met-een-hoog-risico/a8.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 2 Eisen voor AI-systemen met een hoog risico/a9.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 5198,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-2-eisen-voor-ai-systemen-met-een-hoog-risico/a9.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 2 Eisen voor AI-systemen met een hoog risico/a10.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 5343,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-2-eisen-voor-ai-systemen-met-een-hoog-risico/a10.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 2 Eisen voor AI-systemen met een hoog risico/a11.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2175,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-2-eisen-voor-ai-systemen-met-een-hoog-risico/a11.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 2 Eisen voor AI-systemen met een hoog risico/a12.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1614,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-2-eisen-voor-ai-systemen-met-een-hoog-risico/a12.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 2 Eisen voor AI-systemen met een hoog risico/a13.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 4322,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-2-eisen-voor-ai-systemen-met-een-hoog-risico/a13.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 2 Eisen voor AI-systemen met een hoog risico/a14.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 4233,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-2-eisen-voor-ai-systemen-met-een-hoog-risico/a14.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 2 Eisen voor AI-systemen met een hoog risico/a15.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3232,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-2-eisen-voor-ai-systemen-met-een-hoog-risico/a15.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a16.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2154,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-3-verplichtingen-van-aanbieders-en-gebruiksverantwoordelijken-van-ai-systemen-met-een-hoog-risico-en-andere-partijen/a16.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a17.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 4575,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-3-verplichtingen-van-aanbieders-en-gebruiksverantwoordelijken-van-ai-systemen-met-een-hoog-risico-en-andere-partijen/a17.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a18.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1586,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-3-verplichtingen-van-aanbieders-en-gebruiksverantwoordelijken-van-ai-systemen-met-een-hoog-risico-en-andere-partijen/a18.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a19.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1176,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-3-verplichtingen-van-aanbieders-en-gebruiksverantwoordelijken-van-ai-systemen-met-een-hoog-risico-en-andere-partijen/a19.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a20.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1655,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-3-verplichtingen-van-aanbieders-en-gebruiksverantwoordelijken-van-ai-systemen-met-een-hoog-risico-en-andere-partijen/a20.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a21.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1099,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-3-verplichtingen-van-aanbieders-en-gebruiksverantwoordelijken-van-ai-systemen-met-een-hoog-risico-en-andere-partijen/a21.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a22.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3778,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-3-verplichtingen-van-aanbieders-en-gebruiksverantwoordelijken-van-ai-systemen-met-een-hoog-risico-en-andere-partijen/a22.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a23.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3380,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-3-verplichtingen-van-aanbieders-en-gebruiksverantwoordelijken-van-ai-systemen-met-een-hoog-risico-en-andere-partijen/a23.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a24.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3546,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-3-verplichtingen-van-aanbieders-en-gebruiksverantwoordelijken-van-ai-systemen-met-een-hoog-risico-en-andere-partijen/a24.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a25.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 5041,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-3-verplichtingen-van-aanbieders-en-gebruiksverantwoordelijken-van-ai-systemen-met-een-hoog-risico-en-andere-partijen/a25.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a26.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 10832,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-3-verplichtingen-van-aanbieders-en-gebruiksverantwoordelijken-van-ai-systemen-met-een-hoog-risico-en-andere-partijen/a26.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 3 Verplichtingen van aanbieders en gebruiksverantwoordelijken van AI-systemen met een hoog risico en andere partijen/a27.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 4057,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-3-verplichtingen-van-aanbieders-en-gebruiksverantwoordelijken-van-ai-systemen-met-een-hoog-risico-en-andere-partijen/a27.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a28.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1972,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-4-aanmeldende-autoriteiten-en-aangemelde-instanties/a28.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a29.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1977,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-4-aanmeldende-autoriteiten-en-aangemelde-instanties/a29.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a30.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2072,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-4-aanmeldende-autoriteiten-en-aangemelde-instanties/a30.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a31.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 5001,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-4-aanmeldende-autoriteiten-en-aangemelde-instanties/a31.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a32.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 551,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-4-aanmeldende-autoriteiten-en-aangemelde-instanties/a32.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a33.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1160,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-4-aanmeldende-autoriteiten-en-aangemelde-instanties/a33.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a34.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1384,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-4-aanmeldende-autoriteiten-en-aangemelde-instanties/a34.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a35.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 544,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-4-aanmeldende-autoriteiten-en-aangemelde-instanties/a35.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a36.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 8189,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-4-aanmeldende-autoriteiten-en-aangemelde-instanties/a36.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a37.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1412,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-4-aanmeldende-autoriteiten-en-aangemelde-instanties/a37.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a38.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 835,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-4-aanmeldende-autoriteiten-en-aangemelde-instanties/a38.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 4 Aanmeldende autoriteiten en aangemelde instanties/a39.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 445,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-4-aanmeldende-autoriteiten-en-aangemelde-instanties/a39.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 5 Normen, conformiteitsbeoordeling, certificaten, registratie/a40.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3285,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-5-normen,-conformiteitsbeoordeling,-certificaten,-registratie/a40.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 5 Normen, conformiteitsbeoordeling, certificaten, registratie/a41.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 4466,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-5-normen,-conformiteitsbeoordeling,-certificaten,-registratie/a41.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 5 Normen, conformiteitsbeoordeling, certificaten, registratie/a42.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 886,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-5-normen,-conformiteitsbeoordeling,-certificaten,-registratie/a42.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 5 Normen, conformiteitsbeoordeling, certificaten, registratie/a43.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 6240,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-5-normen,-conformiteitsbeoordeling,-certificaten,-registratie/a43.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 5 Normen, conformiteitsbeoordeling, certificaten, registratie/a44.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1848,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-5-normen,-conformiteitsbeoordeling,-certificaten,-registratie/a44.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 5 Normen, conformiteitsbeoordeling, certificaten, registratie/a45.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2151,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-5-normen,-conformiteitsbeoordeling,-certificaten,-registratie/a45.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 5 Normen, conformiteitsbeoordeling, certificaten, registratie/a46.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3822,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-5-normen,-conformiteitsbeoordeling,-certificaten,-registratie/a46.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 5 Normen, conformiteitsbeoordeling, certificaten, registratie/a47.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2298,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-5-normen,-conformiteitsbeoordeling,-certificaten,-registratie/a47.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 5 Normen, conformiteitsbeoordeling, certificaten, registratie/a48.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1852,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-5-normen,-conformiteitsbeoordeling,-certificaten,-registratie/a48.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 3 AI-Systemen Met Een Hoog Risico/AFDELING 5 Normen, conformiteitsbeoordeling, certificaten, registratie/a49.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2437,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-3-ai-systemen-met-een-hoog-risico/afdeling-5-normen,-conformiteitsbeoordeling,-certificaten,-registratie/a49.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 4 Transparantieverplichtingen Voor Aanbieders En Gebruiksverantwoordelijken Van Bepaalde AI-Systemen/a50.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 5813,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-4-transparantieverplichtingen-voor-aanbieders-en-gebruiksverantwoordelijken-van-bepaalde-ai-systemen/a50.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 5 AI-Modellen Voor Algemene Doeleinden/AFDELING 1 Classificatieregels/a51.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1611,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-5-ai-modellen-voor-algemene-doeleinden/afdeling-1-classificatieregels/a51.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 5 AI-Modellen Voor Algemene Doeleinden/AFDELING 1 Classificatieregels/a52.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3748,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-5-ai-modellen-voor-algemene-doeleinden/afdeling-1-classificatieregels/a52.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 5 AI-Modellen Voor Algemene Doeleinden/AFDELING 2 Verplichtingen voor aanbieders van AI-modellen voor algemene doeleinden/a53.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 4260,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-5-ai-modellen-voor-algemene-doeleinden/afdeling-2-verplichtingen-voor-aanbieders-van-ai-modellen-voor-algemene-doeleinden/a53.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 5 AI-Modellen Voor Algemene Doeleinden/AFDELING 2 Verplichtingen voor aanbieders van AI-modellen voor algemene doeleinden/a54.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3550,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-5-ai-modellen-voor-algemene-doeleinden/afdeling-2-verplichtingen-voor-aanbieders-van-ai-modellen-voor-algemene-doeleinden/a54.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 5 AI-Modellen Voor Algemene Doeleinden/AFDELING 3 Verplichtingen van aanbieders van AI-modellen voor algemene doeleinden met een systeemrisico/a55.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2515,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-5-ai-modellen-voor-algemene-doeleinden/afdeling-3-verplichtingen-van-aanbieders-van-ai-modellen-voor-algemene-doeleinden-met-een-systeemrisico/a55.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 5 AI-Modellen Voor Algemene Doeleinden/AFDELING 4 Praktijkcodes/a56.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 5124,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-5-ai-modellen-voor-algemene-doeleinden/afdeling-4-praktijkcodes/a56.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 6 Maatregelen Ter Ondersteuning Van Innovatie/a57.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 11169,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-6-maatregelen-ter-ondersteuning-van-innovatie/a57.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 6 Maatregelen Ter Ondersteuning Van Innovatie/a58.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 5572,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-6-maatregelen-ter-ondersteuning-van-innovatie/a58.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 6 Maatregelen Ter Ondersteuning Van Innovatie/a59.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 5398,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-6-maatregelen-ter-ondersteuning-van-innovatie/a59.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 6 Maatregelen Ter Ondersteuning Van Innovatie/a60.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 10131,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-6-maatregelen-ter-ondersteuning-van-innovatie/a60.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 6 Maatregelen Ter Ondersteuning Van Innovatie/a61.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1863,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-6-maatregelen-ter-ondersteuning-van-innovatie/a61.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 6 Maatregelen Ter Ondersteuning Van Innovatie/a62.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2719,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-6-maatregelen-ter-ondersteuning-van-innovatie/a62.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 6 Maatregelen Ter Ondersteuning Van Innovatie/a63.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1008,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-6-maatregelen-ter-ondersteuning-van-innovatie/a63.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 7 Governance/AFDELING 1 Governance op Unieniveau/a64.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 292,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-7-governance/afdeling-1-governance-op-unieniveau/a64.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 7 Governance/AFDELING 1 Governance op Unieniveau/a65.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3282,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-7-governance/afdeling-1-governance-op-unieniveau/a65.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 7 Governance/AFDELING 1 Governance op Unieniveau/a66.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 5438,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-7-governance/afdeling-1-governance-op-unieniveau/a66.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 7 Governance/AFDELING 1 Governance op Unieniveau/a67.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1998,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-7-governance/afdeling-1-governance-op-unieniveau/a67.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 7 Governance/AFDELING 1 Governance op Unieniveau/a68.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3698,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-7-governance/afdeling-1-governance-op-unieniveau/a68.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 7 Governance/AFDELING 1 Governance op Unieniveau/a69.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1136,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-7-governance/afdeling-1-governance-op-unieniveau/a69.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 7 Governance/AFDELING 2 Nationale bevoegde autoriteiten/a70.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 4139,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-7-governance/afdeling-2-nationale-bevoegde-autoriteiten/a70.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 8 EU-Databank Voor Ai-Systemen Met Een Hoog Risico/a71.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2712,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-8-eu-databank-voor-ai-systemen-met-een-hoog-risico/a71.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 1 Monitoring na het in de handel brengen/a72.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3297,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-1-monitoring-na-het-in-de-handel-brengen/a72.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 2 Delen van informatie over ernstige incidenten/a73.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 4892,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-2-delen-van-informatie-over-ernstige-incidenten/a73.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a74.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 8314,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-3-handhaving/a74.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a75.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2336,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-3-handhaving/a75.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a76.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2309,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-3-handhaving/a76.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a77.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2033,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-3-handhaving/a77.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a78.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 4263,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-3-handhaving/a78.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a79.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 6244,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-3-handhaving/a79.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a80.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3306,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-3-handhaving/a80.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a81.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2131,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-3-handhaving/a81.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a82.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2204,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-3-handhaving/a82.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a83.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1228,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-3-handhaving/a83.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 3 Handhaving/a84.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 496,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-3-handhaving/a84.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 4 Rechtsmiddelen/a85.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 662,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-4-rechtsmiddelen/a85.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 4 Rechtsmiddelen/a86.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1244,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-4-rechtsmiddelen/a86.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 4 Rechtsmiddelen/a87.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 221,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-4-rechtsmiddelen/a87.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 5 Toezicht, onderzoek, handhaving en monitoring ten aanzien van aanbieders van AI-modellen voor algemene doeleinden/a88.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 792,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-5-toezicht,-onderzoek,-handhaving-en-monitoring-ten-aanzien-van-aanbieders-van-ai-modellen-voor-algemene-doeleinden/a88.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 5 Toezicht, onderzoek, handhaving en monitoring ten aanzien van aanbieders van AI-modellen voor algemene doeleinden/a89.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1272,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-5-toezicht,-onderzoek,-handhaving-en-monitoring-ten-aanzien-van-aanbieders-van-ai-modellen-voor-algemene-doeleinden/a89.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 5 Toezicht, onderzoek, handhaving en monitoring ten aanzien van aanbieders van AI-modellen voor algemene doeleinden/a90.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1392,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-5-toezicht,-onderzoek,-handhaving-en-monitoring-ten-aanzien-van-aanbieders-van-ai-modellen-voor-algemene-doeleinden/a90.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 5 Toezicht, onderzoek, handhaving en monitoring ten aanzien van aanbieders van AI-modellen voor algemene doeleinden/a91.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1982,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-5-toezicht,-onderzoek,-handhaving-en-monitoring-ten-aanzien-van-aanbieders-van-ai-modellen-voor-algemene-doeleinden/a91.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 5 Toezicht, onderzoek, handhaving en monitoring ten aanzien van aanbieders van AI-modellen voor algemene doeleinden/a92.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2771,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-5-toezicht,-onderzoek,-handhaving-en-monitoring-ten-aanzien-van-aanbieders-van-ai-modellen-voor-algemene-doeleinden/a92.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 5 Toezicht, onderzoek, handhaving en monitoring ten aanzien van aanbieders van AI-modellen voor algemene doeleinden/a93.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1219,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-5-toezicht,-onderzoek,-handhaving-en-monitoring-ten-aanzien-van-aanbieders-van-ai-modellen-voor-algemene-doeleinden/a93.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 9 Monitoring Na Het In De Handel Brengen, Informatie-Uitwisseling En Markttoezicht/AFDELING 5 Toezicht, onderzoek, handhaving en monitoring ten aanzien van aanbieders van AI-modellen voor algemene doeleinden/a94.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 372,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-9-monitoring-na-het-in-de-handel-brengen,-informatie-uitwisseling-en-markttoezicht/afdeling-5-toezicht,-onderzoek,-handhaving-en-monitoring-ten-aanzien-van-aanbieders-van-ai-modellen-voor-algemene-doeleinden/a94.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 10 Gedragscodes En Richtsnoeren/a95.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2926,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-10-gedragscodes-en-richtsnoeren/a95.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 10 Gedragscodes En Richtsnoeren/a96.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1822,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-10-gedragscodes-en-richtsnoeren/a96.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 11 Bevoegdheidsdelegatie En Comitéprocedure/a97.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2634,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-11-bevoegdheidsdelegatie-en-comitéprocedure/a97.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 11 Bevoegdheidsdelegatie En Comitéprocedure/a98.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 257,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-11-bevoegdheidsdelegatie-en-comitéprocedure/a98.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 12 Sancties/a99.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 6149,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-12-sancties/a99.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 12 Sancties/a100.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3835,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-12-sancties/a100.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 12 Sancties/a101.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 2472,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-12-sancties/a101.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a102.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 587,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-13-slotbepalingen/a102.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a103.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 557,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-13-slotbepalingen/a103.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a104.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 557,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-13-slotbepalingen/a104.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a105.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 606,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-13-slotbepalingen/a105.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a106.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 570,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-13-slotbepalingen/a106.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a107.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 530,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-13-slotbepalingen/a107.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a108.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3056,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-13-slotbepalingen/a108.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a109.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 534,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-13-slotbepalingen/a109.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a110.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 761,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-13-slotbepalingen/a110.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a111.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1858,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-13-slotbepalingen/a111.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a112.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 6344,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-13-slotbepalingen/a112.html",
+      "dependencies": []
+    },
+    "2. Hoofdstukken/Hoofdstuk 13 Slotbepalingen/a113.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 21700,
+      "exportedPath": "2.-hoofdstukken/hoofdstuk-13-slotbepalingen/a113.html",
+      "dependencies": []
+    },
+    "3. Bijlagen/b1.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 7737,
+      "exportedPath": "3.-bijlagen/b1.html",
+      "dependencies": []
+    },
+    "3. Bijlagen/b2.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 929,
+      "exportedPath": "3.-bijlagen/b2.html",
+      "dependencies": []
+    },
+    "3. Bijlagen/b3.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 9649,
+      "exportedPath": "3.-bijlagen/b3.html",
+      "dependencies": []
+    },
+    "3. Bijlagen/b4.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 7571,
+      "exportedPath": "3.-bijlagen/b4.html",
+      "dependencies": []
+    },
+    "3. Bijlagen/b5.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1763,
+      "exportedPath": "3.-bijlagen/b5.html",
+      "dependencies": []
+    },
+    "3. Bijlagen/b6.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 790,
+      "exportedPath": "3.-bijlagen/b6.html",
+      "dependencies": []
+    },
+    "3. Bijlagen/b7.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 9581,
+      "exportedPath": "3.-bijlagen/b7.html",
+      "dependencies": []
+    },
+    "3. Bijlagen/b8.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 5239,
+      "exportedPath": "3.-bijlagen/b8.html",
+      "dependencies": []
+    },
+    "3. Bijlagen/b9.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1080,
+      "exportedPath": "3.-bijlagen/b9.html",
+      "dependencies": []
+    },
+    "3. Bijlagen/b10.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 6445,
+      "exportedPath": "3.-bijlagen/b10.html",
+      "dependencies": []
+    },
+    "3. Bijlagen/b11.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 3677,
+      "exportedPath": "3.-bijlagen/b11.html",
+      "dependencies": []
+    },
+    "3. Bijlagen/b12.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1949,
+      "exportedPath": "3.-bijlagen/b12.html",
+      "dependencies": []
+    },
+    "3. Bijlagen/b13.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1668,
+      "exportedPath": "3.-bijlagen/b13.html",
+      "dependencies": []
+    },
+    "Andere wetgeving/v2022-2095.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 14743,
+      "exportedPath": "andere-wetgeving/v2022-2095.html",
+      "dependencies": []
+    },
+    "Untitled.md": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 0,
+      "exportedPath": "untitled.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 134785,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 32937,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 130471,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1724163914128,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
